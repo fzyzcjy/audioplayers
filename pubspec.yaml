@@ -18,12 +18,6 @@ flutter:
         fileName: audioplayers_web.dart
 
 dependencies:
-  uuid: ">=2.2.2 <4.0.0"
-  path_provider: ^1.6.22
-  flutter:
-    sdk: flutter
-  flutter_web_plugins:
-    sdk: flutter
 
 dev_dependencies:
   flutter_test:
